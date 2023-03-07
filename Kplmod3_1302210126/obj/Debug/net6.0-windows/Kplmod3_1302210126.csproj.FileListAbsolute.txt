@@ -1,0 +1,17 @@
+E:\Yosuawilliam_1302210126\mod3_1302210126\Kplmod3_1302210126\bin\Debug\net6.0-windows\Kplmod3_1302210126.exe
+E:\Yosuawilliam_1302210126\mod3_1302210126\Kplmod3_1302210126\bin\Debug\net6.0-windows\Kplmod3_1302210126.deps.json
+E:\Yosuawilliam_1302210126\mod3_1302210126\Kplmod3_1302210126\bin\Debug\net6.0-windows\Kplmod3_1302210126.runtimeconfig.json
+E:\Yosuawilliam_1302210126\mod3_1302210126\Kplmod3_1302210126\bin\Debug\net6.0-windows\Kplmod3_1302210126.dll
+E:\Yosuawilliam_1302210126\mod3_1302210126\Kplmod3_1302210126\bin\Debug\net6.0-windows\Kplmod3_1302210126.pdb
+E:\Yosuawilliam_1302210126\mod3_1302210126\Kplmod3_1302210126\obj\Debug\net6.0-windows\Kplmod3_1302210126.csproj.AssemblyReference.cache
+E:\Yosuawilliam_1302210126\mod3_1302210126\Kplmod3_1302210126\obj\Debug\net6.0-windows\Kplmod3_1302210126.Form1.resources
+E:\Yosuawilliam_1302210126\mod3_1302210126\Kplmod3_1302210126\obj\Debug\net6.0-windows\Kplmod3_1302210126.csproj.GenerateResource.cache
+E:\Yosuawilliam_1302210126\mod3_1302210126\Kplmod3_1302210126\obj\Debug\net6.0-windows\Kplmod3_1302210126.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yosuawilliam_1302210126\mod3_1302210126\Kplmod3_1302210126\obj\Debug\net6.0-windows\Kplmod3_1302210126.AssemblyInfoInputs.cache
+E:\Yosuawilliam_1302210126\mod3_1302210126\Kplmod3_1302210126\obj\Debug\net6.0-windows\Kplmod3_1302210126.AssemblyInfo.cs
+E:\Yosuawilliam_1302210126\mod3_1302210126\Kplmod3_1302210126\obj\Debug\net6.0-windows\Kplmod3_1302210126.csproj.CoreCompileInputs.cache
+E:\Yosuawilliam_1302210126\mod3_1302210126\Kplmod3_1302210126\obj\Debug\net6.0-windows\Kplmod3_1302210126.dll
+E:\Yosuawilliam_1302210126\mod3_1302210126\Kplmod3_1302210126\obj\Debug\net6.0-windows\refint\Kplmod3_1302210126.dll
+E:\Yosuawilliam_1302210126\mod3_1302210126\Kplmod3_1302210126\obj\Debug\net6.0-windows\Kplmod3_1302210126.pdb
+E:\Yosuawilliam_1302210126\mod3_1302210126\Kplmod3_1302210126\obj\Debug\net6.0-windows\Kplmod3_1302210126.genruntimeconfig.cache
+E:\Yosuawilliam_1302210126\mod3_1302210126\Kplmod3_1302210126\obj\Debug\net6.0-windows\ref\Kplmod3_1302210126.dll
